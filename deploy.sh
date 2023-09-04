@@ -9,6 +9,6 @@ cd dist
 git init
 git add -A
 git commit -m 'New Deployment'
-git push -f git@github.com:brunodamacena/fala-portugues-generator.git main:gh-pages
+git push -f git@github.com:BrunoDamacena/fala-portugues-generator.git master:gh-pages
 
 cd -
